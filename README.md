@@ -4,7 +4,7 @@
 * Nonce Generation (Complexity: 5)
 * RSA Pub/Secret Keys
 * Multithreaded
-* Decentralized (Nodes Run As Websockets On Localhost)
+* P2P Decentralized (Nodes Run As Websockets On Localhost)
 * Genesis Reward: 50000 Swincoins
 * Miner Reward: 15 Swincoins
 
