@@ -1,4 +1,5 @@
 # Swincoin
+A simple, localhost-based blockchain and cryptocurrency written in Ruby. This is not an industry-ready blockchain or cryptocurrency, not suitable for real-world applications.
 * Byzantine Fault Tolerant
 * SHA256 Hashes
 * Nonce Generation (Complexity: 5)
