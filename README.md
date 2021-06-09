@@ -6,7 +6,7 @@ A simple, localhost-based Proof-of-Work blockchain and cryptocurrency written in
 * RSA Pub/Secret Keys
 * Two-Way Peer Handshake
 * Multithreaded
-* P2P Decentralized (Nodes Run As Websockets On Localhost)
+* P2P Decentralized (Nodes Run As Ports On Localhost)
 * Genesis Reward: 50000 Swincoins
 * Miner Reward: 15 Swincoins
 
