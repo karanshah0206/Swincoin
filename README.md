@@ -4,6 +4,7 @@ A simple, localhost-based Proof-of-Work blockchain and cryptocurrency written in
 * SHA256 Hashes
 * Nonce Generation (Complexity: 5)
 * RSA Pub/Secret Keys
+* Two-Way Peer Handshake
 * Multithreaded
 * P2P Decentralized (Nodes Run As Websockets On Localhost)
 * Genesis Reward: 50000 Swincoins
@@ -15,3 +16,5 @@ A simple, localhost-based Proof-of-Work blockchain and cryptocurrency written in
 * Sinatra
 * Faraday
 * Colorize
+
+Watch the demonstration on YouTube: https://youtu.be/UtL7f6W-tLI
